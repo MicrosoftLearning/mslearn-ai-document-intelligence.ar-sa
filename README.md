@@ -1,1 +1,2 @@
-# mslearn-ai-document-intelligence.ar-sa
+# التحليل الذكي لمستند mslearn
+ملفات المختبر للوحدات النمطية للتحليل الذكي لمستند الذكاء الاصطناعي في Azure
