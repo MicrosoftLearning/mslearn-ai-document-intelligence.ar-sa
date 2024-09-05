@@ -14,7 +14,7 @@ lab:
 
 1. في علامة تبويب المتصفح، افتح مدخل Microsoft Azure على [https://portal.azure.com](https://portal.azure.com?azure-portal=true)، وقم بتسجيل الدخول باستخدام حساب Microsoft المرتبط باشتراكك في Azure.
 1. في الصفحة الرئيسية لمدخل Microsoft Azure، انتقل إلى مربع البحث العلوي واكتب **Document Intelligence**، ثم اضغط على **إدخال**.
-1. في صفحة **Document Intelligence**، حدد **إنشاء**.
+1. في صفحة **ذكاء المستند**، حدد **إنشاء ذكاء مستند**.
 1. في صفحة **إنشاء استخبارات المستندات**، استخدم ما يلي لتكوين الموارد الخاصة بك:
     - **Subscription**: حدد اشتراك Azure الخاص بك.
     - **مجموعة الموارد**: حدد أو أنشئ مجموعة موارد باسم فريد مثل *DocIntelligenceResources*.
@@ -81,7 +81,7 @@ lab:
     **Python**:
 
     ```powershell
-    pip install azure-ai-formrecognizer==3.3.0
+    pip install azure-ai-formrecognizer==3.3.3
     ```
 
 ## إضافة التعليمة البرمجية لاستخدام خدمة Azure Document Intelligence
