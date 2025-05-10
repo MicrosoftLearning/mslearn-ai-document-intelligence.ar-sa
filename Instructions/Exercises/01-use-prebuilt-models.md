@@ -145,7 +145,7 @@
 <li>
 <p dir="auto">في ملف التعليمات البرمجية في تعليمة Visual Studio البرمجية، حدد موقع هذا السطر واستبدل <code>&lt;API Key&gt;</code> بالسلسلة التي نسختها للتو:</p>
 </li>
-<p dir="rtl"><strong>C#</strong></p>
+<p dir="rtl"><strong>#C</strong></p>
 <div class="highlight highlight-source-cs notranslate position-relative overflow-auto" dir="auto"><pre><code>string apiKey = &quot;&lt;API Key&gt;&quot;;</code></pre></div>
 <p dir="rtl"><strong>Python</strong></p>
 <div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><code>key = &quot;&lt;API Key&gt;&quot;;</code></pre></div>
