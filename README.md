@@ -1,2 +1,1 @@
-# التحليل الذكي لمستند mslearn
-ملفات المختبر للوحدات النمطية للتحليل الذكي لمستند الذكاء الاصطناعي في Azure
+> **ملاحظة**: تُجرى أرشفة هذا المستودع، ولم يعُد قيد الاحتفاظ. يُرجى زيارة مسار التعلم [تطوير حلول استخراج معلومات الذكاء الاصطناعي](https://learn.microsoft.com/training/paths/ai-extract-information/)، [ومستودع الواجب المرتبط به](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction)، أو [وثائق مصنع الذكاء الاصطناعي في Azure](https://learn.microsoft.com/azure/ai-foundry/)
